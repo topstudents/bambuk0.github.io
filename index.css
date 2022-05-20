@@ -7,13 +7,13 @@
     width: 130px;
     height: 50px;
     position: absolute;
-    top: 360px;
-    left: 161px;
+    top: 370px;
+    left: 144px;
 }
 
 .bamb_icon {
     position: absolute;
-    left: 139px;
+    left: 118px;
     top: 20px;
     size: 200px 200px;
     z-index: -1;
@@ -30,5 +30,5 @@
     width: 300px;
     position: absolute;
     top: 200px;
-    left: 103px;
+    left: 85px;
 }
