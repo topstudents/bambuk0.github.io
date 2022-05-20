@@ -12,7 +12,7 @@
     grid-template-rows: 185px 185px 185px; 
     row-gap: 500px;
     position: absolute;
-    left: 118px;
+    left: 94px;
     top: 20px;
 }
 
@@ -43,7 +43,7 @@
     row-gap: 500px;
     position: absolute;
     top: 200px;
-    left: 85px;
+    left: 61px;
 }
 
 .text__item {
@@ -60,7 +60,7 @@
     row-gap: 500px;
     position: absolute;
     top: 400px;
-    left: 144px;
+    left: 120px;
 }
 
 .buttons__item {
