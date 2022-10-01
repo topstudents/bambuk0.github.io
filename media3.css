@@ -305,9 +305,9 @@
     }
     
     .first{
-        margin-top: 54px;
+        margin-top: 50px;
         height: 241px;
-        width: 100%;
+        width: 440px;
         background: url('images/firstbg.jpg');
         background-position: center;
         background-size: 100% 241px;
