@@ -343,10 +343,10 @@
     }
     
     .imptext{
-        font-size: 15px;
+        font-size: 20px;
         font-weight: 500;
         font-style: unset;
-        color: #909090;
+        color: #cecece;
         font-family: Arial, Helvetica, sans-serif;
         margin-top: 30px;
     }
@@ -376,7 +376,7 @@
     .rost{
         font-size: 16px;
         font-weight: 700;
-        color: #474747;
+        color: #ffffff;
         margin-top: 0px;
         margin-left: 48px;
     }
@@ -424,7 +424,7 @@
     }
     
     .types2{
-        font-size: 40px;
+        font-size: 39px;
         font-weight: 400;
         text-transform: none;
         line-height: 1.2;
@@ -464,7 +464,7 @@
         font-size: 20px;
         font-weight: 500;
         font-style: unset;
-        color: #909090;
+        color: #cecece;
         font-family: Arial, Helvetica, sans-serif;
         margin-top: 10px;
     }
